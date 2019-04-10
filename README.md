@@ -1,6 +1,6 @@
 # golang
-basic 
-socket  
-* socker server sample  
-chi  
-* rest samples with chi  
+* basic 
+* socket  
+    - server sample  
+* chi  
+    - rest samples with chi  
