@@ -1,6 +1,6 @@
 # golang
 * basic 
 * socket  
-    - server sample  
+    - socket server sample  
 * chi  
-    - rest samples with chi  
+    - rest samples with chi framework
